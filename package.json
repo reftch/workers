@@ -1,0 +1,11 @@
+{
+  "name": "workers",
+  "version": "1.0.0",
+  "description": "Node.js in multi-threaded mode",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "reftch",
+  "license": "MIT"
+}
